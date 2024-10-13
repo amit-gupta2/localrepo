@@ -1,2 +1,3 @@
 red = red
 yello
+blue
